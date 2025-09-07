@@ -63,7 +63,7 @@ Key transformations include:
 - **Deposit Analysis Dashboard**: Deposits across different account types.  
 - **Summary Dashboard**: High-level KPIs and insights.  
 
-![Home Dashboard](Screenshot 2025-09-08 034748.png) 
+![Home Dashboard](Screenshot%202025-09-08%20034748.png)
 
 ---
 
